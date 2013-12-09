@@ -1,0 +1,16 @@
+<package>
+  <description brief="normalFinder">
+
+     normalFinder
+
+  </description>
+  <author>malcom</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/normalFinder</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+</package>
+
+
